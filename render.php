@@ -98,7 +98,6 @@ function parseEPL($file) {
 ?>
 <div style="width: 1800px;">
 	<div style="position: relative; width: 900px; height: 5px; float: left;">
-	<? #parseEPL('piotr.epl'); ?>
 	<? parseEPL('Shipment-Label-1-15928.epl'); ?>
 	</div>
 	<div style="position: relative; width: 900px; height: 5px; float: left;">
